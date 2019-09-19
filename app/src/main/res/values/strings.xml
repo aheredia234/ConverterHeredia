@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConverterHeredia</string>
+    <string name="txt_title">English to Metric Converter</string>
+    <string name="txt_hint">Enter metric number</string>
+    <string name="txt_calc">CALCULATE</string>
+    <string name="txt_result"></string>
+    <string-array name="spinner">
+        <item>Centimeters to Inches</item>
+        <item>Meters to Yards</item>
+        <item>Grams to Ounces</item>
+        <item>Kilograms to Pounds</item>
+    </string-array>
+</resources>
